@@ -3,7 +3,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository
+<b>Step 1.</b> Clone this repository: https://github.com/Karthikoffical/Sign-language-detection.git
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
