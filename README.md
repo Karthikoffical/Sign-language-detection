@@ -1,7 +1,5 @@
 # Tensorflow Object Detection Walkthrough
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. 
-<img src="https://user-images.githubusercontent.com/120801930/235292379-608c4da3-a615-4011-8621-6c168ea5e990.png
-">
 
 ## Steps
 <br />
